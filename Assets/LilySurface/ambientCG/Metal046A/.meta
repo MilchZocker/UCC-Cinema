@@ -1,0 +1,30 @@
+{
+    "name": "Metal046A",
+    "id": "Metal046A",
+    "scraper": "AmbientCgScraper",
+    "fetchUrl": "https://ambientcg.com/view?id=Metal046A",
+    "thumbnail": "thumb.png",
+    "variants": [
+        "1K-JPG",
+        "2K-JPG",
+        "4K-JPG",
+        "8K-JPG",
+        "1K-PNG",
+        "2K-PNG",
+        "4K-PNG",
+        "8K-PNG"
+    ],
+    "custom": {
+        "variants_urls": [
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_1K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_2K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_4K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_8K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_1K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_2K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_4K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Metal046A_v9d7AoE1/Metal046A_8K-PNG.zip"
+        ],
+        "thumbnail_url": "https://cdn3.struffelproductions.com/file/ambientCG/media/sphere/512-PNG/Metal046A_PREVIEW.png"
+    }
+}

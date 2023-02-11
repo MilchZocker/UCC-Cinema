@@ -1,0 +1,30 @@
+{
+    "name": "Plastic006",
+    "id": "Plastic006",
+    "scraper": "AmbientCgScraper",
+    "fetchUrl": "https://ambientcg.com/view?id=Plastic006",
+    "thumbnail": "thumb.png",
+    "variants": [
+        "1K-JPG",
+        "2K-JPG",
+        "4K-JPG",
+        "8K-JPG",
+        "1K-PNG",
+        "2K-PNG",
+        "4K-PNG",
+        "8K-PNG"
+    ],
+    "custom": {
+        "variants_urls": [
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_1K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_2K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_4K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_8K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_1K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_2K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_4K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Plastic006_hn6lo5g4/Plastic006_8K-PNG.zip"
+        ],
+        "thumbnail_url": "https://cdn3.struffelproductions.com/file/ambientCG/media/sphere/512-PNG/Plastic006_PREVIEW.png"
+    }
+}
