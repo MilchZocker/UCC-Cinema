@@ -22,5 +22,3 @@ Steam Audio (optional)
 Text Mesh pro (optional)
 
 Shift - Complete Sci-Fi UI (optional)
-
-Magica Cloth (optional)
