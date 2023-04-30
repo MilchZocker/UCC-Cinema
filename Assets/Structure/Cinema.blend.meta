@@ -7,18 +7,38 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ambientCG_Leather011_4K-PNG
+    second: {fileID: 2100000, guid: a502e77f303fde447946cc69b77a1fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ambientCG_Metal046A_4K-PNG
     second: {fileID: 2100000, guid: 9121002e5dd580842a798a3a4582325b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ambientCG_Plaster001_4K-PNG
-    second: {fileID: 2100000, guid: 71e9b68c9ff789a4696cbed324c0bf7e, type: 2}
+    second: {fileID: 2100000, guid: 8e26a8dea3cbaf14fa987e7676dd9987, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ambientCG_Plaster001_4K-PNG.001
     second: {fileID: 2100000, guid: 71e9b68c9ff789a4696cbed324c0bf7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Plastic006_4K-PNG
+    second: {fileID: 2100000, guid: 74bc3c7c736262047a67384a4fbfb81e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_Wallpaper001A_4K-PNG
+    second: {fileID: 2100000, guid: 8e26a8dea3cbaf14fa987e7676dd9987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ambientCG_WoodFloor041_4K-PNG
+    second: {fileID: 2100000, guid: 5bb3f447654643342908a4caf62357e4, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

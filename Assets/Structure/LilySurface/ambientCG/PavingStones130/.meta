@@ -1,0 +1,30 @@
+{
+    "name": "PavingStones130",
+    "id": "PavingStones130",
+    "scraper": "AmbientCgScraper",
+    "fetchUrl": "https://ambientcg.com/view?id=PavingStones130",
+    "thumbnail": "thumb.png",
+    "variants": [
+        "1K-JPG",
+        "2K-JPG",
+        "4K-JPG",
+        "8K-JPG",
+        "1K-PNG",
+        "2K-PNG",
+        "4K-PNG",
+        "8K-PNG"
+    ],
+    "custom": {
+        "variants_urls": [
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_1K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_2K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_4K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_8K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_1K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_2K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_4K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/PavingStones130_uvpQt8o4/PavingStones130_8K-PNG.zip"
+        ],
+        "thumbnail_url": "https://cdn3.struffelproductions.com/file/ambientCG/media/sphere/512-PNG/PavingStones130_PREVIEW.png"
+    }
+}
