@@ -21,6 +21,8 @@
 /[Aa]ssets/TextMesh Pro
 /[Aa]ssets/steamaudio_unity
 /[Aa]ssets/plugins
+/[Aa]ssets/AudioLink
+**/bakery*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
