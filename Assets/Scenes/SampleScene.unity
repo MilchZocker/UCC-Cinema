@@ -397,8 +397,8 @@ MonoBehaviour:
   placementStrategy: 1
   horizontalSpacing: 1.5
   heightAboveFloor: 0.5
-  asset: {fileID: 0}
-  probeDataSize: 21623432
+  asset: {fileID: 11400000, guid: 2dfa178b9e0a9d541ac2e87f168dde52, type: 2}
+  probeDataSize: 21267700
   mProbeSpheres:
   - center:
       x: -9.5
@@ -822,7 +822,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -5.0000005
-      y: 4.526499
+      y: 4.0514956
       z: -15
     radius: 1.5
   - center:
@@ -832,7 +832,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -5.0000005
-      y: 4.1752453
+      y: 3.70125
       z: -12
     radius: 1.5
   - center:
@@ -857,7 +857,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -5.0000005
-      y: 3.3917084
+      y: 2.925766
       z: -4.5000005
     radius: 1.5
   - center:
@@ -867,12 +867,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -5.0000005
-      y: 4.1157103
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: -5.0000005
-      y: 2.5755186
+      y: 2.5755177
       z: -1.4999998
     radius: 1.5
   - center:
@@ -887,7 +882,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -5.0000005
-      y: 2.6186314
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -897,7 +892,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -5.0000005
-      y: 2.262453
+      y: 1.8002434
       z: 5.999999
     radius: 1.5
   - center:
@@ -922,7 +917,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -5.0000005
-      y: 1.4838867
+      y: 1.0250053
       z: 13.499999
     radius: 1.5
   - center:
@@ -962,7 +957,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -3.5
-      y: 4.526497
+      y: 4.0514956
       z: -15
     radius: 1.5
   - center:
@@ -972,7 +967,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -3.5
-      y: 4.1752462
+      y: 3.70125
       z: -12
     radius: 1.5
   - center:
@@ -997,7 +992,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -3.5
-      y: 3.3917084
+      y: 2.925766
       z: -4.5000005
     radius: 1.5
   - center:
@@ -1007,12 +1002,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -3.5
-      y: 4.1157084
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: -3.5
-      y: 2.5755184
+      y: 2.5755177
       z: -1.4999998
     radius: 1.5
   - center:
@@ -1027,7 +1017,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -3.5
-      y: 2.6186295
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -1037,7 +1027,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -3.5
-      y: 2.2624493
+      y: 1.8002453
       z: 5.999999
     radius: 1.5
   - center:
@@ -1062,7 +1052,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -3.5
-      y: 1.4838867
+      y: 1.0250072
       z: 13.499999
     radius: 1.5
   - center:
@@ -1237,7 +1227,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -0.5
-      y: 4.5304966
+      y: 4.0514956
       z: -15
     radius: 1.5
   - center:
@@ -1247,7 +1237,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -0.5
-      y: 4.185501
+      y: 3.7012482
       z: -12
     radius: 1.5
   - center:
@@ -1272,7 +1262,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -0.5
-      y: 3.395712
+      y: 2.925768
       z: -4.5000005
     radius: 1.5
   - center:
@@ -1282,295 +1272,280 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: -0.5
-      y: 4.1157084
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 2.5755181
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 2.5005016
-      z: 0
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 2.4254856
-      z: 1.500001
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 2.6226273
-      z: 2.9999995
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 2.0752392
-      z: 4.5000005
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 2.2731361
-      z: 5.999999
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 1.7252502
-      z: 7.5
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 1.6502514
-      z: 9.000001
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 1.3752613
-      z: 10.5
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 1.3002644
-      z: 12
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 1.4878864
-      z: 13.499999
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 0.9499893
-      z: 15
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 0.67498016
-      z: 16.5
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 0.5999851
-      z: 18
-    radius: 1.5
-  - center:
-      x: -0.5
-      y: 0.5249901
-      z: 19.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 4.473708
-      z: -19.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 4.4001284
-      z: -18
-    radius: 1.5
-  - center:
-      x: 1
-      y: 4.3265476
-      z: -16.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 4.526497
-      z: -15
-    radius: 1.5
-  - center:
-      x: 1
-      y: 3.9765005
-      z: -13.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 4.1752462
-      z: -12
-    radius: 1.5
-  - center:
-      x: 1
-      y: 3.626255
-      z: -10.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 3.3510036
-      z: -9
-    radius: 1.5
-  - center:
-      x: 1
-      y: 3.2760067
-      z: -7.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 3.2010136
-      z: -6
-    radius: 1.5
-  - center:
-      x: 1
-      y: 3.3917103
-      z: -4.5000005
-    radius: 1.5
-  - center:
-      x: 1
-      y: 2.850771
-      z: -2.9999995
-    radius: 1.5
-  - center:
-      x: 1
-      y: 4.1157084
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: 1
-      y: 2.5755181
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: 1
-      y: 2.5005016
-      z: 0
-    radius: 1.5
-  - center:
-      x: 1
-      y: 2.4254856
-      z: 1.500001
-    radius: 1.5
-  - center:
-      x: 1
-      y: 2.6186295
-      z: 2.9999995
-    radius: 1.5
-  - center:
-      x: 1
-      y: 2.0752392
-      z: 4.5000005
-    radius: 1.5
-  - center:
-      x: 1
-      y: 2.2624493
-      z: 5.999999
-    radius: 1.5
-  - center:
-      x: 1
-      y: 1.7252502
-      z: 7.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 1.6502514
-      z: 9.000001
-    radius: 1.5
-  - center:
-      x: 1
-      y: 1.3752613
-      z: 10.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 1.3002644
-      z: 12
-    radius: 1.5
-  - center:
-      x: 1
-      y: 1.4838886
-      z: 13.499999
-    radius: 1.5
-  - center:
-      x: 1
-      y: 0.9499893
-      z: 15
-    radius: 1.5
-  - center:
-      x: 1
-      y: 0.67498016
-      z: 16.5
-    radius: 1.5
-  - center:
-      x: 1
-      y: 0.5999851
-      z: 18
-    radius: 1.5
-  - center:
-      x: 1
-      y: 0.5249901
-      z: 19.5
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 4.473708
-      z: -19.5
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 4.4001284
-      z: -18
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 4.3265476
-      z: -16.5
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 4.5492325
-      z: -15
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 3.9765005
-      z: -13.5
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 4.197665
-      z: -12
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 3.626255
-      z: -10.5
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 3.3510036
-      z: -9
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 3.2760067
-      z: -7.5
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 3.2010136
-      z: -6
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 3.418089
-      z: -4.5000005
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 2.850771
-      z: -2.9999995
-    radius: 1.5
-  - center:
-      x: 2.5
-      y: 4.1157084
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: 2.5
       y: 2.5755177
       z: -1.4999998
     radius: 1.5
   - center:
+      x: -0.5
+      y: 2.5005016
+      z: 0
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 2.4254856
+      z: 1.500001
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 2.1502342
+      z: 2.9999995
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 2.0752392
+      z: 4.5000005
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 1.8002472
+      z: 5.999999
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 1.7252502
+      z: 7.5
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 1.6502514
+      z: 9.000001
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 1.3752613
+      z: 10.5
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 1.3002644
+      z: 12
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 1.0250072
+      z: 13.499999
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 0.9499893
+      z: 15
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 0.67498016
+      z: 16.5
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 0.5999851
+      z: 18
+    radius: 1.5
+  - center:
+      x: -0.5
+      y: 0.5249901
+      z: 19.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 4.473708
+      z: -19.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 4.4001284
+      z: -18
+    radius: 1.5
+  - center:
+      x: 1
+      y: 4.3265476
+      z: -16.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 4.0514956
+      z: -15
+    radius: 1.5
+  - center:
+      x: 1
+      y: 3.9765005
+      z: -13.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 3.70125
+      z: -12
+    radius: 1.5
+  - center:
+      x: 1
+      y: 3.626255
+      z: -10.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 3.3510036
+      z: -9
+    radius: 1.5
+  - center:
+      x: 1
+      y: 3.2760067
+      z: -7.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 3.2010136
+      z: -6
+    radius: 1.5
+  - center:
+      x: 1
+      y: 2.925766
+      z: -4.5000005
+    radius: 1.5
+  - center:
+      x: 1
+      y: 2.850771
+      z: -2.9999995
+    radius: 1.5
+  - center:
+      x: 1
+      y: 2.5755157
+      z: -1.4999998
+    radius: 1.5
+  - center:
+      x: 1
+      y: 2.5005016
+      z: 0
+    radius: 1.5
+  - center:
+      x: 1
+      y: 2.4254856
+      z: 1.500001
+    radius: 1.5
+  - center:
+      x: 1
+      y: 2.1502342
+      z: 2.9999995
+    radius: 1.5
+  - center:
+      x: 1
+      y: 2.0752392
+      z: 4.5000005
+    radius: 1.5
+  - center:
+      x: 1
+      y: 1.8002434
+      z: 5.999999
+    radius: 1.5
+  - center:
+      x: 1
+      y: 1.7252502
+      z: 7.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 1.6502514
+      z: 9.000001
+    radius: 1.5
+  - center:
+      x: 1
+      y: 1.3752613
+      z: 10.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 1.3002644
+      z: 12
+    radius: 1.5
+  - center:
+      x: 1
+      y: 1.0250053
+      z: 13.499999
+    radius: 1.5
+  - center:
+      x: 1
+      y: 0.9499893
+      z: 15
+    radius: 1.5
+  - center:
+      x: 1
+      y: 0.67498016
+      z: 16.5
+    radius: 1.5
+  - center:
+      x: 1
+      y: 0.5999851
+      z: 18
+    radius: 1.5
+  - center:
+      x: 1
+      y: 0.5249901
+      z: 19.5
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 4.473708
+      z: -19.5
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 4.4001284
+      z: -18
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 4.3265476
+      z: -16.5
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 4.0514946
+      z: -15
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 3.9765005
+      z: -13.5
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 3.7012482
+      z: -12
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 3.626255
+      z: -10.5
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 3.3510036
+      z: -9
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 3.2760067
+      z: -7.5
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 3.2010136
+      z: -6
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 2.925764
+      z: -4.5000005
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 2.850771
+      z: -2.9999995
+    radius: 1.5
+  - center:
+      x: 2.5
+      y: 2.5755157
+      z: -1.4999998
+    radius: 1.5
+  - center:
       x: 2.5
       y: 2.5005016
       z: 0
@@ -1582,7 +1557,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 2.5
-      y: 2.6407623
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -1592,7 +1567,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 2.5
-      y: 2.288742
+      y: 1.8002453
       z: 5.999999
     radius: 1.5
   - center:
@@ -1617,7 +1592,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 2.5
-      y: 1.5091915
+      y: 1.0250053
       z: 13.499999
     radius: 1.5
   - center:
@@ -1657,7 +1632,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 4
-      y: 4.5505066
+      y: 4.0514956
       z: -15
     radius: 1.5
   - center:
@@ -1667,7 +1642,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 4
-      y: 4.2014437
+      y: 3.70125
       z: -12
     radius: 1.5
   - center:
@@ -1692,23 +1667,13 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 4
-      y: 3.4247532
-      z: -4.5000005
-    radius: 1.5
-  - center:
-      x: 4
-      y: 2.9114761
+      y: 2.925766
       z: -4.5000005
     radius: 1.5
   - center:
       x: 4
       y: 2.850771
       z: -2.9999995
-    radius: 1.5
-  - center:
-      x: 4
-      y: 4.1157103
-      z: -1.4999998
     radius: 1.5
   - center:
       x: 4
@@ -1727,7 +1692,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 4
-      y: 2.6426353
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -1737,7 +1702,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 4
-      y: 2.2929955
+      y: 1.8002453
       z: 5.999999
     radius: 1.5
   - center:
@@ -1762,12 +1727,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 4
-      y: 1.5163136
-      z: 13.499999
-    radius: 1.5
-  - center:
-      x: 4
-      y: 1.0036057
+      y: 1.0250072
       z: 13.499999
     radius: 1.5
   - center:
@@ -1807,7 +1767,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 5.5
-      y: 4.526499
+      y: 4.0514956
       z: -15
     radius: 1.5
   - center:
@@ -1817,7 +1777,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 5.5
-      y: 4.1752453
+      y: 3.70125
       z: -12
     radius: 1.5
   - center:
@@ -1842,7 +1802,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 5.5
-      y: 3.3917084
+      y: 2.925766
       z: -4.5000005
     radius: 1.5
   - center:
@@ -1852,12 +1812,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 5.5
-      y: 4.1157084
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: 5.5
-      y: 2.5755177
+      y: 2.5755157
       z: -1.4999998
     radius: 1.5
   - center:
@@ -1872,7 +1827,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 5.5
-      y: 2.6186275
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -1882,7 +1837,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 5.5
-      y: 2.262453
+      y: 1.8002453
       z: 5.999999
     radius: 1.5
   - center:
@@ -1907,7 +1862,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 5.5
-      y: 1.4838848
+      y: 1.0250053
       z: 13.499999
     radius: 1.5
   - center:
@@ -1947,7 +1902,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 7
-      y: 4.531373
+      y: 4.0514956
       z: -15
     radius: 1.5
   - center:
@@ -1957,7 +1912,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 7
-      y: 4.181546
+      y: 3.70125
       z: -12
     radius: 1.5
   - center:
@@ -1982,18 +1937,13 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 7
-      y: 3.3917084
+      y: 2.925766
       z: -4.5000005
     radius: 1.5
   - center:
       x: 7
       y: 2.850771
       z: -2.9999995
-    radius: 1.5
-  - center:
-      x: 7
-      y: 4.1157084
-      z: -1.4999998
     radius: 1.5
   - center:
       x: 7
@@ -2012,7 +1962,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 7
-      y: 2.6186295
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -2022,7 +1972,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 7
-      y: 2.2624512
+      y: 1.8002453
       z: 5.999999
     radius: 1.5
   - center:
@@ -2222,7 +2172,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 10
-      y: 4.526498
+      y: 4.0514946
       z: -15
     radius: 1.5
   - center:
@@ -2232,7 +2182,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 10
-      y: 4.1752434
+      y: 3.7012482
       z: -12
     radius: 1.5
   - center:
@@ -2257,7 +2207,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 10
-      y: 3.3917084
+      y: 2.925766
       z: -4.5000005
     radius: 1.5
   - center:
@@ -2267,12 +2217,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 10
-      y: 4.1157084
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: 10
-      y: 2.5755172
+      y: 2.5755157
       z: -1.4999998
     radius: 1.5
   - center:
@@ -2287,7 +2232,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 10
-      y: 2.6186275
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -2297,7 +2242,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 10
-      y: 2.262453
+      y: 1.8002453
       z: 5.999999
     radius: 1.5
   - center:
@@ -2322,7 +2267,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 10
-      y: 1.4838886
+      y: 1.0250053
       z: 13.499999
     radius: 1.5
   - center:
@@ -2362,7 +2307,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 11.5
-      y: 4.5264997
+      y: 4.0514946
       z: -15
     radius: 1.5
   - center:
@@ -2372,7 +2317,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 11.5
-      y: 4.1752453
+      y: 3.7012482
       z: -12
     radius: 1.5
   - center:
@@ -2397,7 +2342,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 11.5
-      y: 3.3917103
+      y: 2.925764
       z: -4.5000005
     radius: 1.5
   - center:
@@ -2407,12 +2352,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 11.5
-      y: 4.1157084
-      z: -1.4999998
-    radius: 1.5
-  - center:
-      x: 11.5
-      y: 2.575517
+      y: 2.5755157
       z: -1.4999998
     radius: 1.5
   - center:
@@ -2427,7 +2367,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 11.5
-      y: 2.6186295
+      y: 2.1502342
       z: 2.9999995
     radius: 1.5
   - center:
@@ -2437,7 +2377,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 11.5
-      y: 2.262453
+      y: 1.8002434
       z: 5.999999
     radius: 1.5
   - center:
@@ -2462,7 +2402,7 @@ MonoBehaviour:
     radius: 1.5
   - center:
       x: 11.5
-      y: 1.4838867
+      y: 1.0250072
       z: 13.499999
     radius: 1.5
   - center:
@@ -2765,8 +2705,8 @@ MonoBehaviour:
           x: 14.249995
           y: 7.25
           z: 19.23993
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 2724304108394581737}
     identifier:
       type: 0
@@ -2776,8 +2716,8 @@ MonoBehaviour:
           x: -9.750005
           y: 7.25
           z: 19.24007
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 5646836886666988787}
     identifier:
       type: 0
@@ -2787,8 +2727,8 @@ MonoBehaviour:
           x: 2.2499955
           y: 7.25
           z: 19.24
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 3797433291703197306}
     identifier:
       type: 0
@@ -2798,8 +2738,8 @@ MonoBehaviour:
           x: 2.2498746
           y: 7.25
           z: -1.2600002
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 3490390620390550050}
     identifier:
       type: 0
@@ -2809,8 +2749,8 @@ MonoBehaviour:
           x: 14.249765
           y: 7.25
           z: -19.760073
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 8653441765770219139}
     identifier:
       type: 0
@@ -2820,8 +2760,8 @@ MonoBehaviour:
           x: -9.750235
           y: 7.25
           z: -19.759928
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 9036156886227326718}
     identifier:
       type: 0
@@ -2831,8 +2771,8 @@ MonoBehaviour:
           x: 14.249875
           y: 7.25
           z: -1.2600708
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 5851259192766155658}
     identifier:
       type: 0
@@ -2842,8 +2782,8 @@ MonoBehaviour:
           x: -9.750125
           y: 7.25
           z: -1.2599297
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 2213300
   - gameObject: {fileID: 963194225}
     identifier:
       type: 0
@@ -2854,7 +2794,7 @@ MonoBehaviour:
           y: 0
           z: 0
         radius: 0
-    dataSize: 2265512
+    dataSize: 2213300
   - gameObject: {fileID: 44620005}
     identifier:
       type: 1
@@ -2865,7 +2805,7 @@ MonoBehaviour:
           y: 0
           z: 0
         radius: 0
-    dataSize: 1141636
+    dataSize: 1273484
 --- !u!4 &44620007
 Transform:
   m_ObjectHideFlags: 0
@@ -3031,7 +2971,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 59680d1f-5cc2-4575-996e-94dfcb0bc7ec
+    guid: cc918f02-ae03-4518-b12d-8e1e95d45bd2
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -3226,7 +3166,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 93aedb12-3549-4d9b-ac0e-2ec87cca1da4
+    guid: dcd65278-1d64-4612-8e5d-a777fb647bf3
   - delay: 0
     operations:
     - type: 1
@@ -3271,7 +3211,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 102
     interactionInputModifier: 0
-    guid: f0230e72-7ed4-471f-988e-ac0c23f01251
+    guid: 99b650d2-34a4-4b09-8db1-d4f210239882
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -3690,7 +3630,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 0b4f18f0-4a92-4329-b075-9459b16b8993
+    guid: f8c85341-c0f8-4c28-89d4-2f397f5ad395
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -5015,7 +4955,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 2ffa1338-444a-4b5c-8481-b716316fb2fd
+    guid: 921f1eb4-0813-4389-8085-5e2135fb7f20
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -5296,11 +5236,11 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
+  m_ScaleInLightmap: 0.25
   m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
+  m_ImportantGI: 1
   m_StitchLightmapSeams: 1
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
@@ -5379,8 +5319,8 @@ MonoBehaviour:
   placementStrategy: 1
   horizontalSpacing: 1.5
   heightAboveFloor: 1
-  asset: {fileID: 0}
-  probeDataSize: 21623432
+  asset: {fileID: 11400000, guid: 931c6b9e5a2911d4fa84c67f86e4e1c3, type: 2}
+  probeDataSize: 3257732
   mProbeSpheres:
   - center:
       x: -29.55
@@ -5762,8 +5702,8 @@ MonoBehaviour:
           x: 14.249995
           y: 7.25
           z: 19.23993
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 2724304108394581737}
     identifier:
       type: 0
@@ -5773,8 +5713,8 @@ MonoBehaviour:
           x: -9.750005
           y: 7.25
           z: 19.24007
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 5646836886666988787}
     identifier:
       type: 0
@@ -5784,8 +5724,8 @@ MonoBehaviour:
           x: 2.2499955
           y: 7.25
           z: 19.24
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 3797433291703197306}
     identifier:
       type: 0
@@ -5795,8 +5735,8 @@ MonoBehaviour:
           x: 2.2498746
           y: 7.25
           z: -1.2600002
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 3490390620390550050}
     identifier:
       type: 0
@@ -5806,8 +5746,8 @@ MonoBehaviour:
           x: 14.249765
           y: 7.25
           z: -19.760073
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 8653441765770219139}
     identifier:
       type: 0
@@ -5817,8 +5757,8 @@ MonoBehaviour:
           x: -9.750235
           y: 7.25
           z: -19.759928
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 9036156886227326718}
     identifier:
       type: 0
@@ -5828,8 +5768,8 @@ MonoBehaviour:
           x: 14.249875
           y: 7.25
           z: -1.2600708
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 5851259192766155658}
     identifier:
       type: 0
@@ -5839,8 +5779,8 @@ MonoBehaviour:
           x: -9.750125
           y: 7.25
           z: -1.2599297
-        radius: 1000
-    dataSize: 2265512
+        radius: 100
+    dataSize: 356830
   - gameObject: {fileID: 963194225}
     identifier:
       type: 0
@@ -5851,7 +5791,7 @@ MonoBehaviour:
           y: 0
           z: 0
         radius: 0
-    dataSize: 2265512
+    dataSize: 356830
   - gameObject: {fileID: 452534900}
     identifier:
       type: 1
@@ -5862,7 +5802,7 @@ MonoBehaviour:
           y: 0
           z: 0
         radius: 0
-    dataSize: 1141636
+    dataSize: 33504
 --- !u!4 &452534902
 Transform:
   m_ObjectHideFlags: 0
@@ -6120,7 +6060,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 595158de-0903-423d-a200-c9c9d299bf8e
+    guid: fb5efebd-c7b3-41d0-b33e-82afa7756161
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -6227,6 +6167,50 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &497788611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec0b4dd729a12d046982652f834580a2, type: 3}
+  m_Name: SampleScene_LM0
+  m_EditorClassIdentifier: 
+  resolution: 1024
+  bitmask: 1
+  id: 0
+  sortingID: 0
+  isImplicit: 1
+  area: 13881.862
+  totalVertexCount: 0
+  vertexCounter: 0
+  sceneLodLevel: -1
+  autoResolution: 0
+  sceneName: SampleScene
+  tag: -1
+  containsTerrains: 0
+  probes: 0
+  mode: 1
+  renderMode: 1000
+  renderDirMode: 1000
+  atlasPacker: 1000
+  holeFilling: 0
+  computeSSS: 0
+  sssSamples: 16
+  sssDensity: 10
+  sssColor: {r: 1, g: 1, b: 1, a: 1}
+  sssScale: 1
+  fakeShadowBias: 0
+  transparentSelfShadow: 0
+  flipNormal: 0
+  parentName: 
+  overridePath: 
+  fixPos3D: 0
+  voxelSize: {x: 1, y: 1, z: 1}
+  passedFilter: 0
 --- !u!1 &502652896
 GameObject:
   m_ObjectHideFlags: 0
@@ -6584,7 +6568,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 609456194}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -4.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7150,15 +7134,15 @@ MonoBehaviour:
   renderSettingsRTPVHDR: 0
   renderSettingsRTPVWidth: 640
   renderSettingsRTPVHeight: 360
-  lastBakeTime: 18
+  lastBakeTime: 22
   enlightenWarningShown: 0
   enlightenWarningShown2: 0
   uniqueLights: []
   lights: []
   implicitGroups:
-  - {fileID: 776312534}
-  - {fileID: 1671983127}
-  - {fileID: 1671983127}
+  - {fileID: 497788611}
+  - {fileID: 874041017}
+  - {fileID: 874041017}
   implicitGroupedObjects:
   - {fileID: 40919614}
   - {fileID: 223974226}
@@ -7208,7 +7192,7 @@ MonoBehaviour:
   bakedIDs: 000000000100000001000000
   bakedScaleOffset:
   - {x: 0.9999999, y: 0.9999999, z: 0.0000010105404, w: 0.0000010105404}
-  - {x: 0.5653659, y: 1.0000015, z: -0.0000009560971, w: -0.0000016911147}
+  - {x: 0.56536746, y: 1.0000044, z: -0.000002470197, w: -0.000004369207}
   - {x: 0.4295416, y: 0.7597598, z: 0.5704584, w: 0}
   bakedVertexOffset: ffffffffffffffffffffffff
   bakedVertexColorMesh:
@@ -7246,8 +7230,8 @@ MonoBehaviour:
     bakedIDs: 000000000100000001000000
     bakedScaleOffset:
     - {x: 0.9999999, y: 0.9999999, z: 0.0000010105404, w: 0.0000010105404}
-    - {x: 0.6498625, y: 1.0000015, z: -0.0000010989904, w: -0.0000016911147}
-    - {x: 0.3506925, y: 0.539642, z: 0.6493075, w: 0.013640239}
+    - {x: 0.5653659, y: 1.0000015, z: -0.0000009560971, w: -0.0000016911147}
+    - {x: 0.4295416, y: 0.7597598, z: 0.5704584, w: 0}
     bakedVertexColorMesh:
     - {fileID: 0}
     - {fileID: 0}
@@ -7649,50 +7633,6 @@ RectTransform:
   m_AnchoredPosition: {x: 17.5, y: 0}
   m_SizeDelta: {x: -15, y: -24}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &776312534
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec0b4dd729a12d046982652f834580a2, type: 3}
-  m_Name: SampleScene_LM0
-  m_EditorClassIdentifier: 
-  resolution: 1024
-  bitmask: 1
-  id: 0
-  sortingID: 0
-  isImplicit: 1
-  area: 13883.174
-  totalVertexCount: 0
-  vertexCounter: 0
-  sceneLodLevel: -1
-  autoResolution: 0
-  sceneName: SampleScene
-  tag: -1
-  containsTerrains: 0
-  probes: 0
-  mode: 1
-  renderMode: 1000
-  renderDirMode: 1000
-  atlasPacker: 1000
-  holeFilling: 0
-  computeSSS: 0
-  sssSamples: 16
-  sssDensity: 10
-  sssColor: {r: 1, g: 1, b: 1, a: 1}
-  sssScale: 1
-  fakeShadowBias: 0
-  transparentSelfShadow: 0
-  flipNormal: 0
-  parentName: 
-  overridePath: 
-  fixPos3D: 0
-  voxelSize: {x: 1, y: 1, z: 1}
-  passedFilter: 0
 --- !u!1 &783497085
 GameObject:
   m_ObjectHideFlags: 0
@@ -7795,7 +7735,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 966149fe-726d-4f5b-a824-041b3c953359
+    guid: c9910766-be12-45d0-9de7-7cd6a1bdceb5
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -7929,7 +7869,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: f3313dc2-6366-47ab-bc93-00889b73e30e
+    guid: 95afed1a-b1fc-42ad-9267-ee44968500ac
   - delay: 0
     operations:
     - type: 21
@@ -8010,7 +7950,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: ee89084c-6a85-40be-9f14-1ce3af7cb7eb
+    guid: 70ca10ff-ab57-49c3-a006-2d18f01ab1a6
   - delay: 0
     operations:
     - type: 21
@@ -8091,7 +8031,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: c253dd90-b918-47d6-a704-737d31b1277b
+    guid: 336f93f7-e01d-4271-a583-31d19847fcf6
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -8216,7 +8156,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: dc06eb7d-b801-48cc-87fd-d5ab9e2f3b83
+    guid: 5680f25f-eed9-4ccc-9482-af2e07650ba6
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -8827,6 +8767,50 @@ MonoBehaviour:
     maxValue: 10
     updateMethod: 1
   sampleDirection: 4
+--- !u!114 &874041017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec0b4dd729a12d046982652f834580a2, type: 3}
+  m_Name: SampleScene_LMA1
+  m_EditorClassIdentifier: 
+  resolution: 1024
+  bitmask: 1
+  id: 1
+  sortingID: 1
+  isImplicit: 1
+  area: 0
+  totalVertexCount: 0
+  vertexCounter: 0
+  sceneLodLevel: -1
+  autoResolution: 0
+  sceneName: SampleScene
+  tag: -1
+  containsTerrains: 0
+  probes: 0
+  mode: 1
+  renderMode: 1000
+  renderDirMode: 1000
+  atlasPacker: 1000
+  holeFilling: 0
+  computeSSS: 0
+  sssSamples: 16
+  sssDensity: 10
+  sssColor: {r: 1, g: 1, b: 1, a: 1}
+  sssScale: 1
+  fakeShadowBias: 0
+  transparentSelfShadow: 0
+  flipNormal: 0
+  parentName: 
+  overridePath: 
+  fixPos3D: 0
+  voxelSize: {x: 1, y: 1, z: 1}
+  passedFilter: 0
 --- !u!1 &880972082
 GameObject:
   m_ObjectHideFlags: 0
@@ -8920,6 +8904,30 @@ MonoBehaviour:
               m_StringArgument: 
               m_BoolArgument: 0
             m_CallState: 2
+          - m_Target: {fileID: 1733517135}
+            m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+            m_MethodName: SetActive
+            m_Mode: 6
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+          - m_Target: {fileID: 451029340}
+            m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+            m_MethodName: SetActive
+            m_Mode: 6
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
     actionType: 9
     execType: 1
     layerMask:
@@ -8941,7 +8949,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 7d98d56b-1bfc-4ec2-ade0-ceaa2dc19293
+    guid: 9d9e15d4-d296-4641-8280-3371b9db3fdf
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -9296,6 +9304,7 @@ GameObject:
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
   - component: {fileID: 963194230}
+  - component: {fileID: 963194231}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -9446,8 +9455,8 @@ MonoBehaviour:
   reverbType: 0
   useAllProbeBatches: 1
   probeBatches: []
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 0
@@ -9460,6 +9469,88 @@ MonoBehaviour:
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
+--- !u!114 &963194231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c3684b22f00604a97bb68037fcf4cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  directBinaural: 1
+  interpolation: 0
+  perspectiveCorrection: 1
+  distanceAttenuation: 1
+  distanceAttenuationInput: 0
+  distanceAttenuationValue: 1
+  airAbsorption: 1
+  airAbsorptionInput: 0
+  airAbsorptionLow: 1
+  airAbsorptionMid: 1
+  airAbsorptionHigh: 1
+  directivity: 1
+  directivityInput: 0
+  dipoleWeight: 0.25
+  dipolePower: 1
+  directivityValue: 1
+  occlusion: 1
+  occlusionInput: 0
+  occlusionType: 0
+  occlusionRadius: 1
+  occlusionSamples: 16
+  occlusionValue: 1
+  transmission: 1
+  transmissionType: 0
+  transmissionInput: 0
+  transmissionLow: 1
+  transmissionMid: 1
+  transmissionHigh: 1
+  maxTransmissionSurfaces: 2
+  directMixLevel: 1
+  reflections: 1
+  reflectionsType: 0
+  useDistanceCurveForReflections: 1
+  currentBakedSource: {fileID: 0}
+  reverbTimeLow: 0
+  reverbTimeMid: 0
+  reverbTimeHigh: 0
+  hybridReverbEQLow: 1
+  hybridReverbEQMid: 1
+  hybridReverbEQHigh: 1
+  hybridReverbDelay: 0
+  applyHRTFToReflections: 1
+  reflectionsMixLevel: 0.25
+  pathing: 0
+  pathingProbeBatch: {fileID: 0}
+  pathValidation: 1
+  findAlternatePaths: 1
+  pathingEQ:
+  - 1
+  - 1
+  - 1
+  pathingSH:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  applyHRTFToPathing: 0
+  pathingMixLevel: 1
 --- !u!1 &988503436
 GameObject:
   m_ObjectHideFlags: 0
@@ -9968,7 +10059,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 20a9003d-98ad-43af-86b2-1288efa09931
+    guid: f7f092be-987a-43b2-a699-06c5fafda597
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -10538,7 +10629,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 55ca5d18-c821-4711-b9e7-0f69c3e69a0d
+    guid: f6578453-dcac-4b94-9401-cd1551b3bfdc
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -10955,7 +11046,7 @@ PrefabInstance:
     - target: {fileID: -2026030285993248054, guid: d60a007511040e74e9910936f6834b54,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: -445301808847875415, guid: d60a007511040e74e9910936f6834b54,
         type: 3}
@@ -11007,6 +11098,19 @@ MeshRenderer:
     type: 3}
   m_PrefabInstance: {fileID: 1268219953}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1268219959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 223974226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fb43d10a308b2f46ad4561774f97e52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  asset: {fileID: 11400000, guid: 4082a38ce2236d54ab22f810edac1d6a, type: 2}
 --- !u!1 &1291349732
 GameObject:
   m_ObjectHideFlags: 0
@@ -11312,6 +11416,30 @@ MonoBehaviour:
               m_StringArgument: 
               m_BoolArgument: 1
             m_CallState: 2
+          - m_Target: {fileID: 1733517135}
+            m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+            m_MethodName: SetActive
+            m_Mode: 6
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 1
+            m_CallState: 2
+          - m_Target: {fileID: 451029340}
+            m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+            m_MethodName: SetActive
+            m_Mode: 6
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 1
+            m_CallState: 2
     actionType: 9
     execType: 1
     layerMask:
@@ -11333,7 +11461,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: ffdf6a16-374c-4172-8193-a5cfdce71f86
+    guid: b3119641-8837-4a39-896c-e797bb595735
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -11681,7 +11809,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: e20661ab-f807-4acb-8436-f004e49a40ac
+    guid: ae8026f7-21c0-49b9-a810-6de57f65f10a
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -11891,7 +12019,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 52b5002b-c5f2-4506-88ea-4b03c744590c
+    guid: bc70ee70-7b7b-43c2-9b32-23b134d79efd
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -12218,7 +12346,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: e480ad71-14e4-4e6f-b9a4-91c5354d8bf9
+    guid: eda7b967-b7b0-4d14-8f12-a9deeaf599c8
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -12393,7 +12521,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 2
   objectId: 3fe2b7c3-129a-418e-87ad-c3931657f843
-  randomNum: 33850909
+  randomNum: 42480810
 --- !u!1 &1598729539
 GameObject:
   m_ObjectHideFlags: 0
@@ -12652,7 +12780,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 53a84ace-5575-4b3f-a4c6-c25391586420
+    guid: 1a3c29fb-798b-42ab-a388-420072cc1de6
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -12991,50 +13119,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1671515765}
   m_CullTransparentMesh: 0
---- !u!114 &1671983127
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec0b4dd729a12d046982652f834580a2, type: 3}
-  m_Name: SampleScene_LMA1
-  m_EditorClassIdentifier: 
-  resolution: 1024
-  bitmask: 1
-  id: 1
-  sortingID: 1
-  isImplicit: 1
-  area: 0
-  totalVertexCount: 0
-  vertexCounter: 0
-  sceneLodLevel: -1
-  autoResolution: 0
-  sceneName: SampleScene
-  tag: -1
-  containsTerrains: 0
-  probes: 0
-  mode: 1
-  renderMode: 1000
-  renderDirMode: 1000
-  atlasPacker: 1000
-  holeFilling: 0
-  computeSSS: 0
-  sssSamples: 16
-  sssDensity: 10
-  sssColor: {r: 1, g: 1, b: 1, a: 1}
-  sssScale: 1
-  fakeShadowBias: 0
-  transparentSelfShadow: 0
-  flipNormal: 0
-  parentName: 
-  overridePath: 
-  fixPos3D: 0
-  voxelSize: {x: 1, y: 1, z: 1}
-  passedFilter: 0
 --- !u!1 &1672173391
 GameObject:
   m_ObjectHideFlags: 0
@@ -13260,7 +13344,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 5f870a22-f990-4e1b-bac6-7b24187b9521
+    guid: 9ab768e0-10c7-4179-a33d-3c7e3b03bd5b
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -13392,7 +13476,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 1
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1733517136
 Transform:
   m_ObjectHideFlags: 0
@@ -13435,7 +13519,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
+  m_ScaleInLightmap: 0.25
   m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
@@ -14691,7 +14775,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: e5142f3d-7da1-4e9e-a361-527cc66717b4
+    guid: be68a0de-8253-44c1-af18-bac9e3ca3c32
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -14932,7 +15016,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: aa160416-93ec-42a1-ab69-b78a8f8e36c4
+    guid: 14713529-de93-42fe-9969-89c4c9832e72
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -16191,7 +16275,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -17607,7 +17691,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: d0c6eb16-e6f9-4d9c-af70-1b0c2bc28be7
+    guid: 119bd523-409f-4178-b34b-88f3f5ab59da
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -18087,13 +18171,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -18102,7 +18186,7 @@ MonoBehaviour:
         x: 14.249995
         y: 7.25
         z: 19.23993
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -18120,7 +18204,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -18146,11 +18230,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 1246633535096716875}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -18668,7 +18752,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -18764,7 +18848,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -18800,7 +18884,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -18871,13 +18955,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -18886,7 +18970,7 @@ MonoBehaviour:
         x: -9.750005
         y: 7.25
         z: 19.24007
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -18904,7 +18988,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -18930,11 +19014,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 2724304108394581738}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -19053,7 +19137,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 939af5c5-f99e-4cdc-b456-8006dab12d32
+    guid: 20cd9f87-f149-46b9-a138-69d4e3c9957a
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -20522,13 +20606,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -20537,7 +20621,7 @@ MonoBehaviour:
         x: 14.249765
         y: 7.25
         z: -19.760073
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -20555,7 +20639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -20581,11 +20665,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 3490390620390550051}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -20704,7 +20788,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 5f780f0f-10c8-4029-afaf-cdbeebc6eed9
+    guid: 69507c6a-3369-4bce-9a2b-5e54d7099bfe
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -20767,7 +20851,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -20907,13 +20991,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -20922,7 +21006,7 @@ MonoBehaviour:
         x: 2.2498746
         y: 7.25
         z: -1.2600002
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -20940,7 +21024,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -20949,10 +21033,10 @@ MonoBehaviour:
   airAbsorptionLow: 1
   airAbsorptionMid: 1
   airAbsorptionHigh: 1
-  directivity: 0
+  directivity: 1
   directivityInput: 0
-  dipoleWeight: 0
-  dipolePower: 0
+  dipoleWeight: 0.5
+  dipolePower: 2
   directivityValue: 1
   occlusion: 1
   occlusionInput: 0
@@ -20966,11 +21050,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 3797433291703197307}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -21117,7 +21201,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -21340,7 +21424,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: ab8c4b09-f9f5-45ff-913b-6981cbf5403e
+    guid: 3fa35c1d-6c1e-484f-838b-ca53c8484f95
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -21428,7 +21512,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 39b77c9a-86db-4585-b145-68debda0ae75
+    guid: b9f07e53-ae2e-4eff-ad0f-f97096042af2
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -21497,13 +21581,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -21512,7 +21596,7 @@ MonoBehaviour:
         x: 2.2499955
         y: 7.25
         z: 19.24
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -21530,7 +21614,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -21556,11 +21640,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 5646836886666988788}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -21671,13 +21755,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -21686,7 +21770,7 @@ MonoBehaviour:
         x: -9.750125
         y: 7.25
         z: -1.2599297
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -21704,7 +21788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -21730,11 +21814,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 5851259192766155659}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -22150,7 +22234,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: d8158081-a733-4750-b058-837e792068c0
+    guid: b2df5f62-9597-4950-a7ca-18599d269834
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -22394,7 +22478,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -22558,7 +22642,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -22669,7 +22753,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 0
   DopplerLevel: 0
-  MinDistance: 20
+  MinDistance: 5
   MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
@@ -23692,13 +23776,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -23707,7 +23791,7 @@ MonoBehaviour:
         x: -9.750235
         y: 7.25
         z: -19.759928
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -23725,7 +23809,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -23751,11 +23835,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 8653441765770219140}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -23824,13 +23908,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  influenceRadius: 1000
-  useAllProbeBatches: 0
+  influenceRadius: 100
+  useAllProbeBatches: 1
   probeBatches:
   - {fileID: 44620006}
   - {fileID: 452534901}
-  mTotalDataSize: 4531024
-  mProbeDataSizes: a8912200a8912200
+  mTotalDataSize: 2570130
+  mProbeDataSizes: b4c52100de710500
   mIdentifier:
     type: 0
     variation: 1
@@ -23839,7 +23923,7 @@ MonoBehaviour:
         x: 14.249875
         y: 7.25
         z: -1.2600708
-      radius: 1000
+      radius: 100
   mProbeBatchesUsed:
   - {fileID: 44620006}
   - {fileID: 452534901}
@@ -23857,7 +23941,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  perspectiveCorrection: 0
+  perspectiveCorrection: 1
   distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
@@ -23883,11 +23967,11 @@ MonoBehaviour:
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
-  maxTransmissionSurfaces: 1
+  maxTransmissionSurfaces: 2
   directMixLevel: 1
   reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 9036156886227326719}
   reverbTimeLow: 0
   reverbTimeMid: 0
